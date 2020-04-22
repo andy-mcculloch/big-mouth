@@ -1,6 +1,6 @@
 'use strict';
 
-const co = require("co");
+const co = require('co');
 const AWS = require('aws-sdk');
 const dynamodb = new AWS.DynamoDB.DocumentClient();
 
