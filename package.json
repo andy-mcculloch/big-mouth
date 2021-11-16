@@ -17,7 +17,7 @@
         "superagent-promise": "^1.1.0"
     },
     "devDependencies": {
-        "aws-sdk": "^2.149.0",
+        "aws-sdk": "^2.814.0",
         "serverless": "^1.24.1",
         "serverless-pseudo-parameters": "^1.2.5"
     }
